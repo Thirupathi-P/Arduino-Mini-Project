@@ -5,17 +5,17 @@ A simple embedded systems project that checks a password via the Serial Monitor 
 
 ## What it Does
 
-We need Enter the password via Serial Monitor
-- LED blinks 3 times on correct password
-- LED stays ON for 1 second on wrong password
+We need Enter the password via Serial Monitor<br>
+- LED blinks 3 times on correct password<br>
+- LED stays ON for 1 second on wrong password<br>
 
 ## Components Used
 
--Arduino UNO
--Breadboard
--1× LED (any color)
-=1× 220Ω resistor
--Jumper wires
+-Arduino UNO<br>
+-Breadboard<br>
+-1× LED <br>
+=1× 220Ω resistor <br>
+-Jumper wires <br>
 
 
 
